@@ -1,6 +1,7 @@
 # main
 
 - Fix duplicate "View source" links after client-side navigation in default HTML template
+- Fix duplicated character class range warning in HybridMarkdown
 
 # [0.9.45] - July 14th, 2026
 
